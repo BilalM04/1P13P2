@@ -1,6 +1,6 @@
 # Get a Grip!
 
-A Python program designed to control a robotic arm, specifically the Quanser QArm, for surgical tool sterilization. This innovative solution aims to enhance the sterilization process of surgical tools by incorporating remote sensing and actuation capabilities. For comprehensive details and documentation, visit the project page: [Surgical Tool Sterilization Project](https://bilalm04.github.io/project2.html).
+A Python program designed to control a robotic arm, specifically the Quanser QArm, for surgical tool sterilization. This innovative solution aims to enhance the sterilization process of surgical tools by incorporating remote sensing and actuation capabilities. For comprehensive details and documentation, visit the project page: [Surgical Tool Sterilization Project](https://jet-mozzarella-d09.notion.site/Project-2-Get-a-Grip-03353467f670451581d395337c29d384).
 
 ## Overview
 
@@ -16,4 +16,4 @@ This Python program leverages the Quanser QArm robotic arm to facilitate the ste
 
 ## Comprehensive Documentation
 
-For detailed information, technical specifications, and a comprehensive guide, please refer to the [project documentation](https://bilalm04.github.io/project2.html).
+For detailed information, technical specifications, and a comprehensive guide, please refer to the [project documentation](https://jet-mozzarella-d09.notion.site/Project-2-Get-a-Grip-03353467f670451581d395337c29d384).
